@@ -1,0 +1,7 @@
+C:\Users\ssacr\Desktop\Mod2_Lab3\Mod2_Lab3\bin\Debug\Mod2_Lab3.exe.config
+C:\Users\ssacr\Desktop\Mod2_Lab3\Mod2_Lab3\bin\Debug\Mod2_Lab3.exe
+C:\Users\ssacr\Desktop\Mod2_Lab3\Mod2_Lab3\bin\Debug\Mod2_Lab3.pdb
+C:\Users\ssacr\Desktop\Mod2_Lab3\Mod2_Lab3\obj\Debug\Mod2_Lab3.csprojResolveAssemblyReference.cache
+C:\Users\ssacr\Desktop\Mod2_Lab3\Mod2_Lab3\obj\Debug\Mod2_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\ssacr\Desktop\Mod2_Lab3\Mod2_Lab3\obj\Debug\Mod2_Lab3.exe
+C:\Users\ssacr\Desktop\Mod2_Lab3\Mod2_Lab3\obj\Debug\Mod2_Lab3.pdb
